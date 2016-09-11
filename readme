@@ -1,0 +1,13 @@
+
+<Client-side-application>
+    0. init npm to get package.json --> $ npm init
+    1. install bower --> $ npm install bower -g
+    2. init bower to get bower.json --> $ bower init
+    3. create .bowerrc to define dependency and then run --> $ bower init
+    4. install jquery and toastr by running --> $ bower install jquery --save / $ bower install toastr --save
+    5. install angular --> $ bower install angular angular-resource angular-route --save
+</Client-side-application>
+
+<Server-side-application>
+
+</Server-side-application>
